@@ -6,19 +6,19 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-<br>
+<br>Get the independent variable X and dependent variable Y.
 
 ### Step2
-<br>
+<br>Calculate the mean of the X -values and the mean of the Y -values.
 
 ### Step3
-<br>
+<br>Find the slope m of the line of best fit using the formula.
 
 ### Step4
-<br>
+<br>Compute the y -intercept of the line by using the formula:
 
 ### Step5
-<br>
+<br>Use the slope m and the y -intercept to form the equation of the line.
 
 ## Program:
 ```
